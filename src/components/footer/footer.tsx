@@ -7,6 +7,6 @@ const Footer = () => {
             <div>Developed by Aidan Maycock</div>
         </footer>
     )
-  }
+}
   
-  export default Footer;
+export default Footer;

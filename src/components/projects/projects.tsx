@@ -7,7 +7,7 @@ const Projects = () => {
             <h1>My work</h1>
             <div>
                 <div>
-                    <image />
+                    <img src="" />
                     <div>
                         <h2></h2>
                         <p></p>
